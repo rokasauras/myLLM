@@ -58,7 +58,7 @@
     <li>
       <h3>Project Management and Documentation</h3>
       <ul>
-        <li>Task planning, milestone tracking, and agile development practices.</li>
+        <li>Task planning, milestone tracking.</li>
         <li>Documenting progress, findings, and methodologies.</li>
       </ul>
     </li>
